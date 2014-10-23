@@ -3,8 +3,8 @@ Contributors: ChrisWiegman,
 Donate link: https://chriswiegman.com/donate
 Tags: yourls, shortlink, custom shortlink
 Requires at least: 3.5
-Tested up to: 3.9.1
-Stable tag: 1.0.1
+Tested up to: 4.0
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -52,6 +52,10 @@ Integrates your blog with the <a href="http://yourls.org" target="_blank">YOURLS
 1. Easy to use with only 2 options.
 
 == Changelog ==
+
+= 1.0.2 =
+* Improved URL validation to avoid saving extraneous data
+* Minor typo fixes
 
 = 1.0.1 =
 * Don't generate URLs in admin, wait for the first post view.
