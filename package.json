@@ -1,0 +1,22 @@
+{
+	"name"           : "Better-YOURLs",
+	"private"        : true,
+	"version"        : "1.0.0",
+	"description"    : "Grunt base for the Better YOURLs Plugin.",
+	"dependencies"   : { },
+	"devDependencies": {
+		"grunt"               : "*",
+		"grunt-contrib-uglify": "*",
+		"grunt-contrib-watch" : "*",
+		"grunt-sass"  : "*",
+		"grunt-contrib-cssmin": "*",
+		"load-grunt-tasks"    : "*",
+		"grunt-autoprefixer"  : "*",
+		"grunt-wp-i18n"       : "*"
+	},
+	"author"         : "Chris Wiegman",
+	"repository"     : {
+		"type": "git",
+		"url" : "https://github.com/ChrisWiegman/Better-YOURLS"
+	}
+}
